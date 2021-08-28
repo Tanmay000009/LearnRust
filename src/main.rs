@@ -11,9 +11,10 @@
 //mod functionals;
 //mod pointer;
 //mod structs;
-mod enums;
+//mod enums;
+mod cli;
 fn main() {
     //vars::run();
     //pointer::run();
-    enums::run();
+    cli::run();
 }
