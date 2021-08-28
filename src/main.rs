@@ -1,10 +1,10 @@
 // mod == module
 // mod print;
-
 //mod vars;
-
-mod types;
+//mod types;
+//mod strings;
+mod tuples;
 fn main() {
     //vars::run();
-    types::run();
+    tuples::run();
 }
