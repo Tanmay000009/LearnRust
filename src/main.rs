@@ -9,8 +9,10 @@
 //mod conditionals;
 //mod loops;
 //mod functionals;
-mod pointer;
+//mod pointer;
+mod structs;
 fn main() {
     //vars::run();
-    pointer::run();
+    //pointer::run();
+    structs::run();
 }
