@@ -10,9 +10,10 @@
 //mod loops;
 //mod functionals;
 //mod pointer;
-mod structs;
+//mod structs;
+mod enums;
 fn main() {
     //vars::run();
     //pointer::run();
-    structs::run();
+    enums::run();
 }
