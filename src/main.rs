@@ -5,8 +5,10 @@
 //mod strings;
 //mod tuples;
 //mod arrays;
-mod vectors;
+//mod vectors;
+//mod conditionals;
+mod loops;
 fn main() {
     //vars::run();
-    vectors::run();
+    loops::run();
 }
