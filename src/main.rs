@@ -7,8 +7,10 @@
 //mod arrays;
 //mod vectors;
 //mod conditionals;
-mod loops;
+//mod loops;
+//mod functionals;
+mod pointer;
 fn main() {
     //vars::run();
-    loops::run();
+    pointer::run();
 }
